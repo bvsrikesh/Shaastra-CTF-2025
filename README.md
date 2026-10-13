@@ -38,7 +38,7 @@ Shaastra-CTF-2025/
     ├── Miscellaneous/
     ├── Networking/
     ├── Reverse Engineering/
-
+    └── Web Exploitation/
 ```
 ## 📝 Challenge Solutions
 
