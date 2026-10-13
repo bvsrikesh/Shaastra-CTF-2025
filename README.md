@@ -38,9 +38,10 @@ Shaastra-CTF-2025/
     ├── Miscellaneous/
     ├── Networking/
     ├── Reverse Engineering/
-## 📝 Challenge Solutions
 
 ```
+## 📝 Challenge Solutions
+
 Each challenge includes a `Solution.md` file documenting
 the approach, techniques, and steps used to solve it.
 
