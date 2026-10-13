@@ -40,9 +40,9 @@ Shaastra-CTF-2025/
     ├── Reverse Engineering/
 ## 📝 Challenge Solutions
 
+```
 Each challenge includes a `Solution.md` file documenting
 the approach, techniques, and steps used to solve it.
 
 Explore the challenge categories above to access the
 corresponding problems and writeups.
-```
